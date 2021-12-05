@@ -1,5 +1,7 @@
 # EDA-Project
 
 -Welcome to MTA Turnstile Data Project (MTA Traffic Analysis for Taxi Owners)
-[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+
+
+[MTA Report](https://github.com/alaanouud/EDA-Project/blob/main/MTA%20Report%20(EDA).pdf) 
 
