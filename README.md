@@ -1,6 +1,8 @@
-# EDA-Project
+# MTA Traffic Analysis for Taxi Owners
 
--Welcome to MTA Turnstile Data Project (MTA Traffic Analysis for Taxi Owners)
+-SDAIA T5 Data Science Bootcamp EDA Project
+
+
 
 
 [MTA Traffic Analysis for Taxi Owners Report](https://github.com/alaanouud/EDA-Project/blob/main/MTA%20Report%20(EDA).pdf) 
