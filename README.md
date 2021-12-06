@@ -13,3 +13,6 @@
 
 
 [Source Code](https://github.com/alaanouud/EDA-Project/blob/main/Project-mta.ipynb) 
+
+Instructor: [Mr. Srinivas Rao](https://www.linkedin.com/in/srinivas-rao-52068382/) 
+
