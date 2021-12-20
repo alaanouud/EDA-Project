@@ -2,8 +2,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Ali-Altamimi/SDAIA_MTA/">
-    <img src="https://www.fb101.com/wp-content/uploads/2016/11/MTA.jpeg" alt="💻 Logo">
+  <a href="https://github.com/alaanouud/EDA-Project">
+    <img src="https://www.fb101.com/wp-content/uploads/9E278948-2979-4A84-8DBF-DB2BCAD6098D_1_201_a.jpeg
+
+" alt="💻 Logo">
   </a>
 
   <h3 align="center"> MTA Traffic Analysis for Taxi Owners!
